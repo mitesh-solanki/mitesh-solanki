@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-💼 Web Developer with **12+ years of experience** building high-performance websites  
+💼 Web Developer with **15+ years of experience** building high-performance websites  
 🏆 **Top Rated on Upwork | 100% Job Success**  
 📊 Delivered **300+ projects** with **3700+ hours logged** :contentReference[oaicite:0]{index=0}  
 🌍 Based in **India**, working with global clients  
@@ -56,7 +56,7 @@ I specialize in building **fast, scalable, and SEO-friendly websites** that not 
 
 ## 🚀 Key Highlights
 
-- 🔥 12+ Years crafting web experiences  
+- 🔥 15+ Years crafting web experiences  
 - 🏅 Top Rated freelancer with consistent delivery  
 - 📈 Built scalable eCommerce platforms & custom solutions  
 - ⚡ Focus on performance, UX, and maintainable code  
